@@ -42,7 +42,7 @@ set_four
 # In[97]:
 
 
-# Checking the number of elements in a set
+# Now we are checking the number of elements in a set
 len(set_one)
 
 
